@@ -1,0 +1,17 @@
+STEP 1:
+go to the drive where ever i want to
+create a new folder of desired name to keep all the source code and its required files.
+
+STEP2:
+now initialise the git to create a .git folder(right click and click on bash)
+
+Below 5 commands can be used only for first time while initializing git repository:
+
+git init
+git config credential.helper store
+git remote add origin https://github.com/kajal-sinha29/JAVA_world.git
+git remote add origin https://github.com/kajal-sinha29/Angular.git
+git config --global user.email "kajal0829sinha@gmail.com"
+git config --global user.name "kajal-sinha29"
+
+STEP 3:
